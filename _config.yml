@@ -50,11 +50,11 @@ metadata: test-repository7
 #
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "Moapa Band of Paiutes"
+organization-link: https://www.moapabandofpaiutes.com/
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
-organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
+organization-logo-banner: https://static.wixstatic.com/media/27666c_ccea3db23ead4201a35302c4fddb6cda~mv2.png/v1/crop/x_0,y_1,w_400,h_399/fill/w_344,h_343,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/mbop.png
+organization-logo-nav: https://static.wixstatic.com/media/27666c_ccea3db23ead4201a35302c4fddb6cda~mv2.png/v1/crop/x_0,y_1,w_400,h_399/fill/w_344,h_343,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/mbop.png
 
 ##########
 # ROBOTS EXCLUDE
