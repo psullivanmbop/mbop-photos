@@ -1,6 +1,6 @@
 color_class,color
-primary,
-secondary,
+primary,#640000
+secondary,##FDB200
 success,
 info,
 warning,
