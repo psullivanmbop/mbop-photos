@@ -18,12 +18,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Moapa Band of Paiutes Photographs
+title: Moapa Band of Paiutes Historical Photographs
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Publicly available photos belonging to the Moapa Band of Paiutes
+tagline: Historical photographs belonging and pertaining to the Moapa Band of Paiutes
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: Historic photographics belonging to the Moapa Band of Paiutes
+description: Historical photographics belonging to the Moapa Band of Paiutes
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: Moapa Band of Paiutes; photographs; history
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
