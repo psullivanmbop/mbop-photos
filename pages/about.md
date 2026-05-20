@@ -4,7 +4,7 @@ layout: page
 permalink: /about.html
 ---
 
-{% include feature/jumbotron.html objectid="ag15" heading="About the Collection" position="center" padding="6em" %}
+{% include feature/jumbotron.html background="/objects/ag15.png" heading="About the Collection" position="center" padding="6em" %}
 
 ## About CollectionBuilder CSV
 
