@@ -1,11 +1,10 @@
 ---
 title: About
-layout: about
+layout: page
 permalink: /about.html
-credits: true
 ---
 
-{% include feature/jumbotron.html objectid="ag15" heading="About the Collection" position="center" padding="6em" %}
+{% include feature/jumbotron.html heading="About the Collection" background="https://via.placeholder.com/1600x400/6c757d/ffffff?text=Moapa+Paiute+Collection" position="center" padding="6em" %}
 
 ## About CollectionBuilder CSV
 
