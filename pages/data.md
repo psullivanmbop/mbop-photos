@@ -1,10 +1,7 @@
 ---
 title: Data
 layout: data
-permalink: /data.html\
-data-featured-image: ag15
-# set background-position for featured image, "center", "top", "bottom"
-position: bottom
+permalink: /data.html
 ---
 
 ## Collection Metadata
