@@ -4,7 +4,7 @@ layout: page
 permalink: /about.html
 ---
 
-# About the Moapa Band of Paiutes Historic Photograph Collection
+# About the Moapa Band of Paiutes Historical Photograph Collection
 
 This collection is comprised of historic photographs owned and stewarded by the Moapa Band of Paiutes. Its purpose is to document the vibrant history of the tribe in visual form. It is a work in progress.
 
@@ -18,7 +18,7 @@ To protect the privacy of individuals represented in photographs, the Tribal Arc
 
 ## Donations
 
-To donate a digital or physical photograph, please contact the Tribal Archivist by email at: psullivan@moapabandofpaiutes.org. Materials should pertain to the Moapa Band of Paiutes and be historical (e.g., 20 years or older) in origin.
+To donate a digital or physical photograph, please contact the Tribal Archivist by email at: psullivan@moapabandofpaiutes.org. Materials should pertain to the Moapa Band of Paiutes and be historical (20 years or older) in origin.
 
 ## Rights
 
