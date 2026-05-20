@@ -22,7 +22,7 @@ padding: 6em
 
 This collection is comprised of historic photographs owned and managed by the Moapa Band of Paiutes. It is a work in progress.
 
-{% include feature/image.html objectid="ag15" width="75" %} 
+{% include feature/jumbotron.html objectid="ag15" heading="About the Collection" position="center" padding="6em" %} 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
