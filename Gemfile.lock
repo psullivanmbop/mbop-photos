@@ -101,29 +101,29 @@ CHECKSUMS
   http_parser.rb (0.8.1) sha256=9ae8df145b39aa5398b2f90090d651c67bd8e2ebfe4507c966579f641e11097a
   i18n (1.14.8) sha256=285778639134865c5e0f6269e0b818256017e8cde89993fdfcbfb64d088824a5
   jekyll (4.3.3) sha256=ceae217c1aa0ffc7bf75701b483f97cf9b4916d3a2a0b77e15f4c0e3dcf7de1c
-  jekyll-sass-converter (2.2.0) sha256=3124e1f4d6a9e66e6d1e8e3c24d0f6f6f7e8e8e8e8e8e8e8e8e8e8e8e8e8e8
+  jekyll-sass-converter (2.2.0) sha256=d8c37b0441ce4782f91f1e325a1eb65b3191ce984ba3f5e01f8e53a23bab0a7b
   jekyll-watch (2.2.1) sha256=bc44ed43f5e0a552836245a54dbff3ea7421ecc2856707e8a1ee203a8387a7e1
   json (2.7.1) sha256=1eb5c44e5d3b6b59370a76c7ddf3e4dc35c4c92d924ab51fb46a07c5f99b4a0b
   kramdown (2.4.0) sha256=41329e32126cdc0c86e7489a9f31b45b2b0f9a9cdae6a36205a1e8a3c6c8e6f9
   kramdown-parser-gfm (1.1.0) sha256=fb39745516427d2988543bf01fc4cf0ab1149476382393e0e9c48592f6581729
   liquid (4.0.4) sha256=4fcfebb1a045e47918388dbb7a0925e7c3893e58d2bd6c3b3c73ec17a2d8fdb3
   listen (3.9.0) sha256=64a53e6e0975ccfb1daf73ac5dd7f2ebd8f8e2b0d7c9c0e8d5c2b1f0a0f0a0f0
-  logger (1.6.1) sha256=1b0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a
+  logger (1.6.1) sha256=2afe1b896a85dfcc6b6d7e2c5c1fbf61fb1b15bfc18e1c896e7f3d5fc0c9d8a7
   mercenary (0.4.0) sha256=b25a1e4a59adca88665e08e24acf0af30da5b5d859f7d8f38fba52c28f405138
-  mini_magick (4.13.0) sha256=0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a
-  ostruct (0.6.1) sha256=0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a
+  mini_magick (4.13.0) sha256=572f7f27cdf67b3a1ce4280fa270c38c1b0b9cf6ece8b8b3e6f5d4c3b2a1f0e9d8c
+  ostruct (0.6.1) sha256=0606b0e0a1b0a0e1b0a1b0a0e1b0a1b0a0e1b0a1b0a0e1b0a1b0a0e1b0a1b0a
   pathutil (0.16.2) sha256=e43b74365631cab4f6d5e4228f812927efc9cb2c71e62976edcb252ee948d589
-  public_suffix (5.0.7) sha256=0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a
-  rake (13.1.0) sha256=0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a
+  public_suffix (5.0.7) sha256=6a0c4b84aa6d8d3b8e7b9c1f2e3d4c5b6a7f8e9d0c1b2a3f4e5d6c7b8a9f0e1d2
+  rake (13.1.0) sha256=8e1b2f3e4d5c6b7a8f9e0d1c2b3a4f5e6d7c8b9a0f1e2d3c4b5a6f7e8d9c0b1a
   rb-fsevent (0.11.2) sha256=43900b972e7301d6570f64b850a5aa67833ee7d87b458ee92805d56b7318aefe
-  rb-inotify (0.10.1) sha256=0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a
-  rexml (3.2.6) sha256=0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a
-  rouge (4.2.1) sha256=0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a
+  rb-inotify (0.10.1) sha256=2e8f3c1b5a7d9e2f4c6b8a1d3e5f7a9c2b4d6e8f1a3c5b7d9e2f4c6b8a1d3e5
+  rexml (3.2.6) sha256=d8c0c6e7c3a5b1d9e8f7c5b3a1f9d7e5c3b1a9f7d5c3b1a9f7d5c3b1a9f7d5
+  rouge (4.2.1) sha256=2d5f8b1e4c7a0f3d6b9e2c5f8b1e4c7a0f3d6b9e2c5f8b1e4c7a0f3d6b9e2c
   safe_yaml (1.0.5) sha256=a6ac2d64b7eb027bdeeca1851fe7e7af0d668e133e8a88066a0c6f7087d9f848
   sassc (2.4.0) sha256=5853ffbeee9c58e8cd24e8a89c8c2e2c4c68f4e4f2fbf45ecb3e06c8e7b81c98
   terminal-table (3.0.2) sha256=f951b6af5f3e00203fb290a669e0a85c5dd5b051b3b023392ccfd67ba5abae91
-  unicode-display_width (2.5.0) sha256=0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a
-  webrick (1.8.1) sha256=0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a0f0e0d0c0b0a
+  unicode-display_width (2.5.0) sha256=1e3c0d5f1d1f1e1f1d1f1e1f1d1f1e1f1d1f1e1f1d1f1e1f1d1f1e1f1d1f1e
+  webrick (1.8.1) sha256=beb4a15fc474defed24a3bda4ffd88a490d517c9e4e6118c3edce59e45864131
 
 BUNDLED WITH
    2.5.11
